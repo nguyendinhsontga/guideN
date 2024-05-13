@@ -23,15 +23,6 @@ layout:
 [https://twitter.com/SideProtocol](https://twitter.com/SideProtocol)\
 [https://discord.gg/sideprotocol](https://discord.gg/sideprotocol)
 
-## Public Endpoints
-
-[https://side-rpc.validatorvn.com/](https://side-rpc.validatorvn.com/)\
-[https://side-api.validatorvn.com/](https://side-api.validatorvn.com/)
-
-## Explorer
-
-[https://explorer.validatorvn.com/Side-Testnet](https://explorer.validatorvn.com/Side-Testnet)
-
 ## Snapshots
 
 ```
