@@ -119,7 +119,7 @@ To obtain the pubkey:
 
 # Create file Validator.json  ( nano validator.json )
 
-        {
+{
 	"pubkey": <validator-pub-key>,
 	"amount": "1000000amf",
 	"moniker": "<validator-name>",
@@ -131,7 +131,7 @@ To obtain the pubkey:
 	"commission-max-rate": "0.2",
 	"commission-max-change-rate": "0.01",
 	"min-self-delegation": "1"
-    }
+}
 
 Finally, create the validator:
 
