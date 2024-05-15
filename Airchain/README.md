@@ -1,8 +1,6 @@
 # Airchains
 
-<img width="789" alt="Ảnh màn hình 2024-05-10 lúc 14 04 51" src="https://github.com/Validator247/Airchains/assets/148058353/0f602ac7-f691-4c52-b5f1-5533c961aab3">
-
-# Installation guide
+#  Guide
 
 Install required packages
 
@@ -119,7 +117,7 @@ To obtain the pubkey:
     junctiond comet show-validator
 
 
-# Creat file Validator.json  ( nano validator.json )
+# Create file Validator.json  ( nano validator.json )
 
         {
 	"pubkey": <validator-pub-key>,
