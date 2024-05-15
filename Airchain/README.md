@@ -140,4 +140,4 @@ Finally, create the validator:
     junctiond tx staking create-validator path/to/validator.json --from wallet --chain-id junction --fees 500amf
 
         
-# Done !                
+# complete              
